@@ -1,0 +1,24 @@
+=== Descriptive statistics by phenotype (mean ± std) ===
+                 Age           Hematocrit           TotalProtein            \
+                mean       std       mean       std         mean       std   
+High_TG4h                                                                    
+0          52.868684  9.901762  41.730924  3.710100     6.878089  0.621527   
+1          54.088320  9.764276  41.546453  3.926729     6.881920  0.601560   
+
+                WBV                   TG0h                    TG4h  \
+               mean       std         mean         std        mean   
+High_TG4h                                                            
+0          5.825087  0.454861   788.759564  214.926493  310.372065   
+1          5.803595  0.487092  1039.541200  200.422449  679.655036   
+
+                             TCR                   HDL                   LDL  \
+                  std       mean        std       mean       std        mean   
+High_TG4h                                                                      
+0          126.213738  59.216571  16.344392  50.602667  9.757467  130.816267   
+1          131.657409  33.234469  13.151687  50.037333  9.762308  131.275200   
+
+                            BMI            
+                 std       mean       std  
+High_TG4h                                  
+0          28.371625  23.986844  2.948886  
+1          27.758499  24.179733  2.949216  

@@ -1,0 +1,19 @@
+Evaluating LogisticRegression ...
+{'Model': 'LogisticRegression', 'AUROC': np.float64(0.8006234074074075), 'Accuracy': 0.7246666666666667, 'F1': 0.5657202944269191, 'Precision': 0.4670138888888889, 'Recall': 0.7173333333333334, 'BrierScore': np.float64(0.18486641739140297)}
+
+Evaluating RandomForest ...
+{'Model': 'RandomForest', 'AUROC': np.float64(0.7747105185185184), 'Accuracy': 0.7553333333333333, 'F1': 0.44478063540090773, 'Precision': 0.513986013986014, 'Recall': 0.392, 'BrierScore': np.float64(0.15732831114013868)}
+
+Evaluating GradientBoosting ...
+{'Model': 'GradientBoosting', 'AUROC': np.float64(0.7708041481481481), 'Accuracy': 0.7606666666666667, 'F1': 0.38421955403087477, 'Precision': 0.5384615384615384, 'Recall': 0.2986666666666667, 'BrierScore': np.float64(0.15873793924237714)}
+
+=== Cross-validated performance ===
+                Model     AUROC  Accuracy        F1  Precision    Recall  \
+0  LogisticRegression  0.800623  0.724667  0.565720   0.467014  0.717333   
+1        RandomForest  0.774711  0.755333  0.444781   0.513986  0.392000   
+2    GradientBoosting  0.770804  0.760667  0.384220   0.538462  0.298667   
+
+   BrierScore  
+0    0.184866  
+1    0.157328  
+2    0.158738  

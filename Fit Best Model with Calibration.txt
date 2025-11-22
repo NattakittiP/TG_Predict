@@ -1,0 +1,7 @@
+Best model by AUROC: LogisticRegression
+
+=== Calibrated model performance on test set ===
+AUROC   : 0.776
+Accuracy: 0.781
+F1      : 0.446
+Brier   : 0.156
